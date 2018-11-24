@@ -1,0 +1,62 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #000;
+    color: #fff;
+    padding: 50px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-family: "Merienda";
+    font-size: 72px;
+    word-spacing: 30px;
+  }
+
+  h2 {
+    font-family: "Merienda";
+    font-size: 64px;
+  }
+
+  h3 {
+    font-size: 36px;
+    font-family: "Merienda";
+    color: #000;
+  }
+  
+  button {
+    width: 300px;
+    height: 150px;
+    margin: 0 10px;
+    font-size: 48px;
+    font-family: "Merienda";
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+  }
+
+  header:hover {
+    background-color: #77a;
+  }
+  
+  button:hover {
+    background-color: #77a;
+    border: 3px solid #abd;
+  }
+  
+  .result, .winner {
+    color: #77a;
+    font-size: 1.5rem;
+  }
+  
+  p {
+    font-weight: bold;
+    font-size: 24px;
+    font-family: "Merienda";
+  }
+  
